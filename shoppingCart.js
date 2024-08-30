@@ -1,0 +1,1 @@
+console.log("This file handle shopping cart functionality")
